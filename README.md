@@ -43,13 +43,12 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 2.  **Clone o Repositório:**
     ```bash
-    # Cole a URL HTTPS do seu repositório aqui
     git clone [https://github.com/guifolco/calculadora-impressao-3D/](https://github.com/guifolco/calculadora-impressao-3D/)
     ```
 
 3.  **Navegue até a Pasta do Projeto:**
     ```bash
-    cd nome-da-pasta-do-repositorio
+    cd calculadora-impressao-3D
     ```
 
 4.  **Navegue até a Pasta `src`:**
@@ -65,7 +64,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 6.  **Execute o Programa:**
     ```bash
-    # O comando java executa a classe que contém o método main (substitua 'App' se o nome for diferente)
+    # O comando java executa a classe que contém o método main (substitua 'Main' se o nome for diferente)
     java App
     ```
     Após executar, o programa começará a pedir os dados de entrada no terminal.
